@@ -3,10 +3,10 @@ import _ from "lodash";
 
 export function timeFormat(timeStamp) {
   const dt = new Date(timeStamp);
-  return dt.toLocaleString("en-US", {
+  return dt.toLocaleString("fr-FR", {
     hour: "numeric",
     minute: "numeric",
-    hour12: true
+    hour12: false
   });
 }
 
