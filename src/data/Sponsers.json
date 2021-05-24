@@ -5,41 +5,49 @@
         "tierName": "platinum",
         "brands": [
           {
-            "sponserName": "Amazon Alexa",
-            "sponserWebsiteLink": "https://developer.amazon.com/en-US/alexa",
-            "sponserLogo": "alexa.png"
-          },
-          {
-            "sponserName": "what3words",
-            "sponserWebsiteLink": "https://what3words.com/",
-            "sponserLogo": "w3w.png"
+            "sponserName": "SPIE ICS + VMWare",
+            "sponserWebsiteLink": "https://www.spie-ics.com/",
+            "sponserLogo": "spie.svg"
           }
-          
         ]
       },
       {
         "tierName": "gold",
         "brands": [
           {
-            "sponserName": "Tieto Evry",
-            "sponserWebsiteLink": "https://evry.in/",
-            "sponserLogo": "evry.jpg"
+            "sponserName": "Devoteam | Revolve",
+            "sponserWebsiteLink": "https://revolve.team/playground",
+            "sponserLogo": "devoteam.png"
+          },
+          {
+            "sponserName": "Ippon",
+            "sponserWebsiteLink": "https://fr.ippon.tech/",
+            "sponserLogo": "ippon.svg"
           }
-          
         ]
       },
       {
         "tierName": "silver",
         "brands": [
           {
-            "sponserName": "BotMock",
-            "sponserWebsiteLink": "https://botmock.com/?utm_source=alexain&utm_medium=web&utm_campaign=alexa_in",
-            "sponserLogo": "botmock.png"
+            "sponserName": "Ecritel",
+            "sponserWebsiteLink": "https://www.ecritel.fr/fr/",
+            "sponserLogo": "ecritel.jpeg"
           },
           {
-            "sponserName": "DataVizz",
-            "sponserWebsiteLink": "https://datavizz.in/",
-            "sponserLogo": "datavizz.png"
+            "sponserName": "Stack Labs",
+            "sponserWebsiteLink": "https://stack-labs.com/",
+            "sponserLogo": "stacklabs.png"
+          },
+          {
+            "sponserName": "Sigma Qomity",
+            "sponserWebsiteLink": "https://www.sigma.fr/solutions-services/profils/direction-des-systemes-dinformations/",
+            "sponserLogo": "sigma.svg"
+          },
+          {
+            "sponserName": "Smile",
+            "sponserWebsiteLink": "https://www.smile.eu/fr/offres/infrastructure",
+            "sponserLogo": "smile.png"
           }
           
         ]
@@ -50,29 +58,28 @@
           {
             "sponserName": "Meetup AWS Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/AWS-Nantes/",
-            "sponserLogo": "aws_nantes.png"
+            "sponserLogo": "aws_nantes.jpeg"
           },
           {
             "sponserName": "Meetup Azure Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Azure-Nantes/",
-            "sponserLogo": "azure_nantes.jpg"
+            "sponserLogo": "azure_nantes.jpeg"
           },
           {
             "sponserName": "Meetup CNCF Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/",
-            "sponserLogo": "cncf_nantes.jpg"
+            "sponserLogo": "cncf_nantes.jpeg"
           },
           {
             "sponserName": "Meetup Nantes DevOps",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Nantes-DevOps/",
-            "sponserLogo": "devops_nantes.png"
+            "sponserLogo": "devops_nantes.jpeg"
           },
           {
             "sponserName": "Meetup HashiCorp Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Nantes-HashiCorp-User-Group/",
-            "sponserLogo": "hashi_nantes.png"
+            "sponserLogo": "hashi_nantes.jpeg"
           }
-          
         ]
       }
     ]
