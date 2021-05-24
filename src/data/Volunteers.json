@@ -2,28 +2,34 @@
   {
     "volunteers": [
       {
-        "firstName": "Suneet",
-        "lastName": "Patil",
-        "profileLink": "https://www.linkedin.com/in/suneet-patil/?originalSubdomain=in",
-        "profileImageFileName": "suneet.jpeg"
+        "firstName": "Thomas",
+        "lastName": "Dannenmuller",
+        "profileLink": "https://www.linkedin.com/in/tdannen/",
+        "profileImageFileName": "thdan.jpeg"
       },
       {
-        "firstName": "Ilanchezhian",
-        "lastName": "Ganesamurthy",
-        "profileLink": "https://www.linkedin.com/in/ilanchezhian/",
-        "profileImageFileName": "Ilanchezhian.jpeg"
+        "firstName": "Quentin",
+        "lastName": "Auvrey",
+        "profileLink": "https://www.linkedin.com/in/quentin-auvray-41b4b849/",
+        "profileImageFileName": "qauvray.jpeg"
       },
       {
-        "firstName": "Leslie",
-        "lastName": "Correa",
-        "profileLink": "https://www.linkedin.com/in/leslie-correa-543545a1/",
-        "profileImageFileName": "Leslie Correa.jpeg"
+        "firstName": "Antoine",
+        "lastName": "Pousse",
+        "profileLink": "https://www.linkedin.com/in/antoine-pousse/",
+        "profileImageFileName": "apousse.jpeg"
       },
       {
-        "firstName": "Anup",
-        "lastName": "Narayana",
-        "profileLink": "https://www.linkedin.com/in/anup-narayana-b8a559123/",
-        "profileImageFileName": "anup.jpeg"
+        "firstName": "Willy",
+        "lastName": "Rouvre",
+        "profileLink": "https://www.linkedin.com/in/wrouvre/",
+        "profileImageFileName": "wrouvre.jpeg"
+      },
+      {
+        "firstName": "Cedric",
+        "lastName": "Ravalec",
+        "profileLink": "https://www.linkedin.com/in/ravalec/",
+        "profileImageFileName": "cravalec.jpeg"
       }
       
     ]
