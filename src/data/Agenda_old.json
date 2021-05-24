@@ -13,9 +13,9 @@
           {
             "trackId": "event1",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
-            "title": "Embarquement..."
+            "title": "Registration and Networking"
           }
         ]
       },
@@ -31,9 +31,9 @@
           {
             "trackId": "event2",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
-            "title": "Keynote d'ouverture"
+            "title": "Welcome"
           }
         ]
       },
@@ -44,12 +44,12 @@
         "slotId": "slot-3",
         "timeStart": 1623995300000,
         "timeEnd": 1623998000000,
-        "slotFeedBack": true,
+        "slotFeedBack": false,
         "tracks": [
           {
             "trackId": "event3",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
             "title": "Keynote: Alexa, What Can I Do Now?",
             "speakers": [
@@ -76,7 +76,7 @@
           {
             "trackId": "event4",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
             "title": "3 words to address India by voice",
             "speakers": [
@@ -103,7 +103,7 @@
           {
             "trackId": "event5",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
             "title": "Designing VoiceFirst Experiences for Social Good: How the American Red Cross leverages the power of voice to deliver its mission",
             "speakers": [
@@ -120,7 +120,7 @@
       },
       {
         "eventType": "break",
-        "img": "lunch_break",
+        "img": "tea_break",
         "room": null,
         "slotId": "slot-6",
         "timeStart": 1621141600000,
@@ -130,14 +130,13 @@
           {
             "trackId": "event7",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "title": "Tea Break and Networking"
           }
         ]
       },
       {
-        "eventType": "default",
-        "img": "end",
+        "eventType": "talk",
         "room": null,
         "slotId": "slot-7",
         "timeStart": 1621142800000,
@@ -180,7 +179,6 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
         "room": null,
         "slotId": "slot-8",
         "timeStart": 1621144900000,
@@ -230,8 +228,8 @@
         ]
       },
       {
-        "eventType": "talk",
-        "img": "default",
+        "eventType": "break",
+        "img": "lunch_break",
         "room": null,
         "slotId": "slot-9",
         "timeStart": 1621147300000,
@@ -241,7 +239,7 @@
           {
             "trackId": "event12",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "title": "Lunch"
           }
         ]
@@ -290,7 +288,6 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
         "room": null,
         "slotId": "slot-11",
         "timeStart": 1621152700000,
@@ -333,7 +330,6 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
         "room": null,
         "slotId": "slot-12",
         "timeStart": 1621155400000,
@@ -382,8 +378,8 @@
         ]
       },
       {
-        "eventType": "talk",
-        "img": "default",
+        "eventType": "break",
+        "img": "tea_break",
         "room": null,
         "slotId": "slot-13",
         "timeStart": 1621157800000,
@@ -393,13 +389,13 @@
           {
             "trackId": "event19",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "title": "Tea Break and Networking"
           }
         ]
       },
       {
-        "eventType": "talk",
+        "eventType": "other",
         "img": "default",
         "room": null,
         "slotId": "slot-14",
@@ -410,7 +406,7 @@
           {
             "trackId": "event20",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
             "title": "Closing Keynote",
             "speakers": [
@@ -426,24 +422,6 @@
         ]
       },
       {
-        "eventType": "talk",
-        "img": "default",
-        "room": null,
-        "slotId": "slot-15",
-        "timeStart": 1621161700000,
-        "timeEnd": 1624035600000,
-        "slotFeedBack": false,
-        "tracks": [
-          {
-            "trackId": "event21",
-            "selectedFlag": "default",
-            "trackLength": 5,
-            "feedBack": false,
-            "title": "Closing keynote"
-          }
-        ]
-      },
-      {
         "eventType": "other",
         "img": "default",
         "room": null,
@@ -455,9 +433,9 @@
           {
             "trackId": "event21",
             "selectedFlag": "default",
-            "trackLength": 5,
+            "trackLength": 4,
             "feedBack": false,
-            "title": "Closing keynote"
+            "title": "Closing Note - Alexa Community Bengaluru Team"
           }
         ]
       }
