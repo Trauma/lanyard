@@ -34,7 +34,7 @@ import {
 
 import { px_bg, form_row } from "../jss/cvcss"
 import CountDown from "./CountDown"
-import event_logo_img from "../../images/Alexa-Logo.png"
+import event_logo_img from "../../images/CloudOuest.svg"
 import { timeFormat } from "../../helpers/TimeStamp"
 
 const EventCard = () => {
