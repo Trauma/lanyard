@@ -7,7 +7,7 @@
           {
             "sponserName": "SPIE ICS + VMWare",
             "sponserWebsiteLink": "https://www.spie-ics.com/",
-            "sponserLogo": "spie.svg"
+            "sponserLogo": "_spie.svg"
           }
         ]
       },
@@ -22,7 +22,7 @@
           {
             "sponserName": "Ippon",
             "sponserWebsiteLink": "https://fr.ippon.tech/",
-            "sponserLogo": "ippon.svg"
+            "sponserLogo": "_ippon.svg"
           }
         ]
       },
@@ -42,7 +42,7 @@
           {
             "sponserName": "Sigma Qomity",
             "sponserWebsiteLink": "https://www.sigma.fr/solutions-services/profils/direction-des-systemes-dinformations/",
-            "sponserLogo": "sigma.svg"
+            "sponserLogo": "_sigma.svg"
           },
           {
             "sponserName": "Smile",
@@ -58,12 +58,12 @@
           {
             "sponserName": "Meetup AWS Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/AWS-Nantes/",
-            "sponserLogo": "aws_nantes.jpeg"
+            "sponserLogo": "aws_nantes.png"
           },
           {
             "sponserName": "Meetup Azure Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Azure-Nantes/",
-            "sponserLogo": "azure_nantes.jpeg"
+            "sponserLogo": "azure_nantes.jpg"
           },
           {
             "sponserName": "Meetup CNCF Nantes",
@@ -80,6 +80,7 @@
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Nantes-HashiCorp-User-Group/",
             "sponserLogo": "hashi_nantes.jpeg"
           }
+          
         ]
       }
     ]
