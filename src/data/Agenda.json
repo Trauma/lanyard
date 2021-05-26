@@ -50,14 +50,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Chaos Engineering, ou comment améliorer la résilience en injectant le chaos",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Amine",
+                "lastName": "AIT AAZIZI",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -66,14 +66,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Stéphane",
+                "lastName": "Teyssier",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -82,14 +82,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Les mésaventures d’Alice et Bob au pays du cloud",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Mathieu",
+                "lastName": "Laude",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -98,14 +98,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Un déploiement Zéro downtime sur Kubernetes",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Nicolas",
+                "lastName": "Fränkel",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -114,14 +114,44 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Et si le temps était enfin venu de passer Kafka sur Kubernetes ?",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Olivier",
+                "lastName": "Tassetti",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Mathieu",
+                "lastName": "Herbert",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              }
+            ]
+          },
+          {
+            "trackId": "event77",
+            "selectedFlag": "default",
+            "trackLength": 1,
+            "feedBack": false,
+            "title": "GitOps, une mise en situation un peu réaliste sur Kubernetes avec FluxCD",
+            "speakers": [
+              {
+                "firstName": "Ludovic",
+                "lastName": "Piot",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Laurent",
+                "lastName": "Grangeau",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -140,14 +170,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Terraform Advanced - State manipulation",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "David",
+                "lastName": "Frappart",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Damien",
+                "lastName": "Carpy",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -156,14 +193,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Comment travailler avec des données sensibles et personnelles avec Snowflake ?",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Antoine",
+                "lastName": "CHENON",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Nicolas",
+                "lastName": "Hong",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -172,14 +216,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "REX EDF - Bilan Annuel - Projet Serverless AWS",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Mehdi",
+                "lastName": "EL KOUHEN",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Laurent",
+                "lastName": "Caillaud",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -188,14 +239,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "La configuration dans le contexte cloud Native",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Ismaël",
+                "lastName": "Hommani",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Joachim",
+                "lastName": "Rousseau",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -204,14 +262,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Build a European 🇪🇺 and US 🇺🇸 Multi-cloud",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Chabane",
+                "lastName": "Refes",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -230,14 +288,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Et si on se penchait sur l'impact énergétique de l'IT ?",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Sylvain",
+                "lastName": "Révéreault",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Benoit",
+                "lastName": "Averty",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -246,14 +311,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Checklist pour concevoir une application dans le cloud : 10 conseils à l'attention des concepteurs et architectes",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Alexandre",
+                "lastName": "Touret",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -262,14 +327,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Gitops: comment je mets en prod via un Git Push",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Mathieu",
+                "lastName": "Herbert",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Sebastien",
+                "lastName": "Charret",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -278,14 +350,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Kubernetes : la solution à tous vos problèmes IT ? (Spoiler alert : non)",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Thomas",
+                "lastName": "Rannou",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -294,14 +366,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Hébergement de données de santé - Avantages, contraintes et obligations",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Léonel",
+                "lastName": "Garcia",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Bryan",
+                "lastName": "de Poulpiquet",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -337,14 +416,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Réduire les couts de Google Cloud avec de manières simples et efficaces.",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Guillaume",
+                "lastName": "Blaquiere",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -353,14 +432,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Les bonnes pratiques de sécurité pour les applications Serverless",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Steve",
+                "lastName": "HOUEL",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -369,14 +448,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Guide de survie d’un système d’information hybride.",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Jean-Côme",
+                "lastName": "Ansquer",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -385,14 +464,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Sécurisation des applications modernes : Avez-vous le swag...ger ?",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Lawrence",
+                "lastName": "Benedict",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -401,14 +480,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Un Opendata dans Azure : Retour d'expérience sur les services managés",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Philippe",
+                "lastName": "MORISSEAU",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -428,14 +507,14 @@
             "selectedFlag": "default",
             "trackLength": 5,
             "feedBack": false,
-            "title": "event title",
+            "title": "GameChanger : GraphQL pour prototyper dans le Cloud",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Bertrand",
+                "lastName": "Pinel",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -454,14 +533,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Une migration vers le Cloud pragmatique : Quarkus, Kotlin, Hazelcast et GraalVM en action",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Nicolas",
+                "lastName": "Fränkel",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -470,14 +549,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "How do I made a powerful cache system using Go",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Sylvain",
+                "lastName": "Combraque",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -486,14 +565,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Une plateforme commune pour le Cloud hybride, technologie et mise en perspective avec l’actualité.",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Maya",
+                "lastName": "EL KURDI",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Philippe",
+                "lastName": "Lavergne",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -502,14 +588,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "FinOps : promesses & dérives, cas concrets",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Adrien",
+                "lastName": "Lesuffleur",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -518,14 +604,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Pannes de Data Center : comment et dans quels délais repartir ?",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Fabien",
+                "lastName": "Jenneret",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Bryan",
+                "lastName": "de Poulpiquet", 
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -545,14 +638,14 @@
             "selectedFlag": "default",
             "trackLength": 5,
             "feedBack": false,
-            "title": "event title",
+            "title": "Create a Build and Deployment Pipeline for your iOS Apps with Amazon EC2 Mac Instances",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Sébastien",
+                "lastName": "Stormacq",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -571,14 +664,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "De l'infrastructure jusqu'aux notebooks : une CI/CD complète pour Azure Databricks",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Paul",
+                "lastName": "PETON",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "David",
+                "lastName": "Frappart",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -587,14 +687,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Access, Assert, Act. La sécurité à l'échelle avec Falco 🦅",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Eric",
+                "lastName": "Briand",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Pierre-Yves",
+                "lastName": "Aillet",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -603,14 +710,21 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Stratégie de bascule et re-plateforming d’un écosystème IaaS vers une ferme de clusters Kubernetes hébergées chez Azure",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Bruno",
+                "lastName": "Jusselin",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Ludovic",
+                "lastName": "Toinel",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -619,14 +733,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Kustomizons nos déploiements K8S avec style 🤩 !",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Kevin",
+                "lastName": "Davin",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -635,14 +749,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Démarrez votre plateforme Kubernetes avec VMware Tanzu",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Alexandre",
+                "lastName": "Roman",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -662,14 +776,14 @@
             "selectedFlag": "default",
             "trackLength": 5,
             "feedBack": false,
-            "title": "event title",
+            "title": "AutoML vs AutoMobiLes",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Matthieu",
+                "lastName": "Grandrie",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -688,14 +802,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Azure Bicep - The future of ARM templates",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Charbel",
+                "lastName": "Hanna",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -704,14 +818,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Skaffold & Tilt",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Mehdi",
+                "lastName": "EL KOUHEN",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -720,14 +834,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Auditer son Cloud Public",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Samuel",
+                "lastName": "Bally",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -736,14 +850,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Low-Code et Cloud au service de la transformation digitale",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Tanguy",
+                "lastName": "Badier",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -752,14 +866,14 @@
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "event title",
+            "title": "Pulumi, un Terraform nouvelle génération !",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Manuel",
+                "lastName": "Boillod",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -779,14 +893,14 @@
             "selectedFlag": "default",
             "trackLength": 5,
             "feedBack": false,
-            "title": "event title",
+            "title": "Fleet realtime tracking and visualization in AWS",
             "speakers": [
               {
-                "firstName": "John",
-                "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
-                "designation": "event designation",
-                "externalLink": "https://externalLink.com"
+                "firstName": "Jugurtha",
+                "lastName": "BELKALEM",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           }
@@ -811,9 +925,9 @@
               {
                 "firstName": "John",
                 "lastName": "Dhoe",
-                "profilePicture": "jeff.jpg",
+                "profilePicture": "",
                 "designation": "Closing keynote",
-                "externalLink": "https://externalLink.com"
+                "externalLink": ""
               }
             ]
           }
