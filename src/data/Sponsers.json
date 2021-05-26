@@ -5,9 +5,9 @@
         "tierName": "platinum",
         "brands": [
           {
-            "sponserName": "SPIE ICS + VMWare",
+            "sponserName": "SPIE ICS + VMware",
             "sponserWebsiteLink": "https://www.spie-ics.com/",
-            "sponserLogo": "_spie.svg"
+            "sponserLogo": "spie.png"
           }
         ]
       },
@@ -22,7 +22,12 @@
           {
             "sponserName": "Ippon",
             "sponserWebsiteLink": "https://fr.ippon.tech/",
-            "sponserLogo": "_ippon.svg"
+            "sponserLogo": "ippon.png"
+          },
+          {
+            "sponserName": "Wescale",
+            "sponserWebsiteLink": "https://www.wescale.fr/",
+            "sponserLogo": "wescale.png"
           }
         ]
       },
@@ -32,7 +37,7 @@
           {
             "sponserName": "Ecritel",
             "sponserWebsiteLink": "https://www.ecritel.fr/fr/",
-            "sponserLogo": "ecritel.jpeg"
+            "sponserLogo": "ecritel.png"
           },
           {
             "sponserName": "Stack Labs",
@@ -42,12 +47,17 @@
           {
             "sponserName": "Sigma Qomity",
             "sponserWebsiteLink": "https://www.sigma.fr/solutions-services/profils/direction-des-systemes-dinformations/",
-            "sponserLogo": "_sigma.svg"
+            "sponserLogo": "sigma.png"
           },
           {
             "sponserName": "Smile",
             "sponserWebsiteLink": "https://www.smile.eu/fr/offres/infrastructure",
             "sponserLogo": "smile.png"
+          },
+          {
+            "sponserName": "Arkup",
+            "sponserWebsiteLink": "https://www.arkup.fr/",
+            "sponserLogo": "arkup.png"
           }
           
         ]
@@ -56,9 +66,19 @@
         "tierName": "community",
         "brands": [
           {
+            "sponserName": "ADN Ouest",
+            "sponserWebsiteLink": "https://www.adnouest.org/",
+            "sponserLogo": "adn-ouest.png"
+          },
+          {
             "sponserName": "Meetup AWS Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/AWS-Nantes/",
             "sponserLogo": "aws_nantes.png"
+          },
+          {
+            "sponserName": "Meetup Nantes DevOps",
+            "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Nantes-DevOps/",
+            "sponserLogo": "devops_nantes.jpeg"
           },
           {
             "sponserName": "Meetup Azure Nantes",
@@ -69,11 +89,6 @@
             "sponserName": "Meetup CNCF Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/",
             "sponserLogo": "cncf_nantes.jpeg"
-          },
-          {
-            "sponserName": "Meetup Nantes DevOps",
-            "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Nantes-DevOps/",
-            "sponserLogo": "devops_nantes.jpeg"
           },
           {
             "sponserName": "Meetup HashiCorp Nantes",
