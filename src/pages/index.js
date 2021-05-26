@@ -44,7 +44,8 @@ const IndexPage = () => {
       }
     }
   `)
-
+  localStorage.clear();
+  
   function SetLocalStorage(key, value) {
     // Do not remove "typeof" : https://github.com/gatsbyjs/gatsby/issues/14480#issuecomment-497983196
     if (typeof window !== "undefined" && localStorage.getItem(key) === null) {
