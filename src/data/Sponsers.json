@@ -88,12 +88,12 @@
           {
             "sponserName": "Meetup CNCF Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/",
-            "sponserLogo": "cncf_nantes.jpeg"
+            "sponserLogo": "fake_cncf_nantes.jpeg"
           },
           {
             "sponserName": "Meetup HashiCorp Nantes",
             "sponserWebsiteLink": "https://www.meetup.com/fr-FR/Nantes-HashiCorp-User-Group/",
-            "sponserLogo": "hashi_nantes.jpeg"
+            "sponserLogo": "fake_hashi_nantes.jpeg"
           }
           
         ]

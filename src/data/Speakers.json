@@ -2,10 +2,10 @@
     {
       "Speakers": [
         {
-          "firstName": "",
-          "lastName": "",
+          "firstName": "John",
+          "lastName": "Dhoe",
           "profileLink": "",
-          "profileImageFileName": ""
+          "profileImageFileName": "jeff.jpg"
         }
       ]
     }
