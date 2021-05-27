@@ -12,7 +12,7 @@
         "tracks": [
           {
             "trackId": "event1",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Ouverture des portes d'embarquement..."
@@ -30,7 +30,7 @@
         "tracks": [
           {
             "trackId": "event2",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": true,
             "title": "Keynote d'ouverture"
@@ -47,7 +47,7 @@
         "tracks": [
           {
             "trackId": "event3",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Chaos Engineering, ou comment améliorer la résilience en injectant le chaos",
@@ -63,7 +63,7 @@
           },
           {
             "trackId": "event14",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Checklist pour concevoir une application dans le cloud : 10 conseils à l'attention des concepteurs et architectes",
@@ -79,7 +79,7 @@
           },
           {
             "trackId": "event5",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Les mésaventures d’Alice et Bob au pays du cloud",
@@ -95,7 +95,7 @@
           },
           {
             "trackId": "event6",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Un déploiement Zéro downtime sur Kubernetes",
@@ -111,7 +111,7 @@
           },
           {
             "trackId": "event7",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Et si le temps était enfin venu de passer Kafka sur Kubernetes ?",
@@ -134,7 +134,7 @@
           },
           {
             "trackId": "event77",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "GitOps, une mise en situation un peu réaliste sur Kubernetes avec FluxCD",
@@ -167,7 +167,7 @@
         "tracks": [
           {
             "trackId": "event8",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Terraform Advanced - State manipulation",
@@ -190,7 +190,7 @@
           },
           {
             "trackId": "event4",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
@@ -206,10 +206,10 @@
           },
           {
             "trackId": "event10",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "REX EDF - Bilan Annuel - Projet Serverless AWS",
+            "title": "REX CICD AWS pour une architecture Serverless",
             "speakers": [
               {
                 "firstName": "Mehdi",
@@ -229,7 +229,7 @@
           },
           {
             "trackId": "event11",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "La configuration dans le contexte cloud Native",
@@ -252,7 +252,7 @@
           },
           {
             "trackId": "event12",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Build a European 🇪🇺 and US 🇺🇸 Multi-cloud",
@@ -278,7 +278,7 @@
         "tracks": [
           {
             "trackId": "event13",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Et si on se penchait sur l'impact énergétique de l'IT ?",
@@ -301,7 +301,7 @@
           },
           {
             "trackId": "event9",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Comment travailler avec des données sensibles et personnelles avec Snowflake ?",
@@ -324,7 +324,7 @@
           },
           {
             "trackId": "event15",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Gitops: comment je mets en prod via un Git Push",
@@ -347,7 +347,7 @@
           },
           {
             "trackId": "event16",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Kubernetes : la solution à tous vos problèmes IT ? (Spoiler alert : non)",
@@ -363,7 +363,7 @@
           },
           {
             "trackId": "event17",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Hébergement de données de santé - Avantages, contraintes et obligations",
@@ -397,7 +397,7 @@
         "tracks": [
           {
             "trackId": "event18",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "title": "Pause dejeuner et networking"
           }
@@ -413,7 +413,7 @@
         "tracks": [
           {
             "trackId": "event19",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Réduire les couts de Google Cloud de manières simples et efficaces.",
@@ -429,7 +429,7 @@
           },
           {
             "trackId": "event20",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Les bonnes pratiques de sécurité pour les applications Serverless",
@@ -445,7 +445,7 @@
           },
           {
             "trackId": "event21",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Guide de survie d’un système d’information hybride.",
@@ -461,7 +461,7 @@
           },
           {
             "trackId": "event22",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Sécurisation des applications modernes : Avez-vous le swag...ger ?",
@@ -477,7 +477,7 @@
           },
           {
             "trackId": "event23",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Un Opendata dans Azure : Retour d'expérience sur les services managés",
@@ -495,7 +495,7 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
+        "img": "notSelected",
         "room": null,
         "slotId": "slot-8",
         "timeStart": 1624019400000,
@@ -504,7 +504,7 @@
         "tracks": [
           {
             "trackId": "event24",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
             "title": "GameChanger : GraphQL pour prototyper dans le Cloud",
@@ -530,7 +530,7 @@
         "tracks": [
           {
             "trackId": "event25",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Une migration vers le Cloud pragmatique : Quarkus, Kotlin, Hazelcast et GraalVM en action",
@@ -546,7 +546,7 @@
           },
           {
             "trackId": "event26",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "How do I made a powerful cache system using Go",
@@ -562,7 +562,7 @@
           },
           {
             "trackId": "event27",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Une plateforme commune pour le Cloud hybride, technologie et mise en perspective avec l’actualité.",
@@ -585,7 +585,7 @@
           },
           {
             "trackId": "event28",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "FinOps : promesses & dérives, cas concrets",
@@ -601,7 +601,7 @@
           },
           {
             "trackId": "event29",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Pannes de Data Center : comment et dans quels délais repartir ?",
@@ -626,7 +626,7 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
+        "img": "notSelected",
         "room": null,
         "slotId": "slot-10",
         "timeStart": 1624023000000,
@@ -635,7 +635,7 @@
         "tracks": [
           {
             "trackId": "event30",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
             "title": "Create a Build and Deployment Pipeline for your iOS Apps with Amazon EC2 Mac Instances",
@@ -661,7 +661,7 @@
         "tracks": [
           {
             "trackId": "event31",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "De l'infrastructure jusqu'aux notebooks : une CI/CD complète pour Azure Databricks",
@@ -684,7 +684,7 @@
           },
           {
             "trackId": "event38",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Skaffold & Tilt",
@@ -700,7 +700,7 @@
           },
           {
             "trackId": "event33",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Stratégie de bascule et re-plateforming d’un écosystème IaaS vers une ferme de clusters Kubernetes hébergées chez Azure",
@@ -723,7 +723,7 @@
           },
           {
             "trackId": "event34",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Kustomizons nos déploiements K8S avec style 🤩 !",
@@ -739,7 +739,7 @@
           },
           {
             "trackId": "event35",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Démarrez votre plateforme Kubernetes avec VMware Tanzu",
@@ -757,7 +757,7 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
+        "img": "notSelected",
         "room": null,
         "slotId": "slot-12",
         "timeStart": 1624026600000,
@@ -766,7 +766,7 @@
         "tracks": [
           {
             "trackId": "event36",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
             "title": "AutoML vs AutoMobiLes",
@@ -792,7 +792,7 @@
         "tracks": [
           {
             "trackId": "event37",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Azure Bicep - The future of ARM templates",
@@ -808,7 +808,7 @@
           },
           {
             "trackId": "event32",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Access, Assert, Act. La sécurité à l'échelle avec Falco 🦅",
@@ -831,7 +831,7 @@
           },
           {
             "trackId": "event39",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Auditer son Cloud Public",
@@ -847,7 +847,7 @@
           },
           {
             "trackId": "event40",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Low-Code et Cloud au service de la transformation digitale",
@@ -863,7 +863,7 @@
           },
           {
             "trackId": "event41",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
             "title": "Pulumi, un Terraform nouvelle génération !",
@@ -881,7 +881,7 @@
       },
       {
         "eventType": "talk",
-        "img": "default",
+        "img": "notSelected",
         "room": null,
         "slotId": "slot-14",
         "timeStart": 1624030200000,
@@ -890,7 +890,7 @@
         "tracks": [
           {
             "trackId": "event42",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
             "title": "Fleet realtime tracking and visualization in AWS",
@@ -917,7 +917,7 @@
         "tracks": [
           {
             "trackId": "event43",
-            "selectedFlag": "default",
+            "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
             "title": "Closing Keynote",
