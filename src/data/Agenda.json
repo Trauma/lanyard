@@ -62,15 +62,15 @@
             ]
           },
           {
-            "trackId": "event4",
+            "trackId": "event14",
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
+            "title": "Checklist pour concevoir une application dans le cloud : 10 conseils à l'attention des concepteurs et architectes",
             "speakers": [
               {
-                "firstName": "Stéphane",
-                "lastName": "Teyssier",
+                "firstName": "Alexandre",
+                "lastName": "Touret",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -189,22 +189,15 @@
             ]
           },
           {
-            "trackId": "event9",
+            "trackId": "event4",
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Comment travailler avec des données sensibles et personnelles avec Snowflake ?",
+            "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
             "speakers": [
               {
-                "firstName": "Antoine",
-                "lastName": "CHENON",
-                "profilePicture": "",
-                "designation": "",
-                "externalLink": ""
-              },
-              {
-                "firstName": "Nicolas",
-                "lastName": "Hong",
+                "firstName": "Stéphane",
+                "lastName": "Teyssier",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -307,15 +300,22 @@
             ]
           },
           {
-            "trackId": "event14",
+            "trackId": "event9",
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Checklist pour concevoir une application dans le cloud : 10 conseils à l'attention des concepteurs et architectes",
+            "title": "Comment travailler avec des données sensibles et personnelles avec Snowflake ?",
             "speakers": [
               {
-                "firstName": "Alexandre",
-                "lastName": "Touret",
+                "firstName": "Antoine",
+                "lastName": "CHENON",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Nicolas",
+                "lastName": "Hong",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -683,22 +683,15 @@
             ]
           },
           {
-            "trackId": "event32",
+            "trackId": "event38",
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Access, Assert, Act. La sécurité à l'échelle avec Falco 🦅",
+            "title": "Skaffold & Tilt",
             "speakers": [
               {
-                "firstName": "Eric",
-                "lastName": "Briand",
-                "profilePicture": "",
-                "designation": "",
-                "externalLink": ""
-              },
-              {
-                "firstName": "Pierre-Yves",
-                "lastName": "Aillet",
+                "firstName": "Mehdi",
+                "lastName": "EL KOUHEN",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -814,15 +807,22 @@
             ]
           },
           {
-            "trackId": "event38",
+            "trackId": "event32",
             "selectedFlag": "default",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Skaffold & Tilt",
+            "title": "Access, Assert, Act. La sécurité à l'échelle avec Falco 🦅",
             "speakers": [
               {
-                "firstName": "Mehdi",
-                "lastName": "EL KOUHEN",
+                "firstName": "Eric",
+                "lastName": "Briand",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Pierre-Yves",
+                "lastName": "Aillet",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
