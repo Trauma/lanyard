@@ -90,6 +90,13 @@
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
+              },
+              {
+                "firstName": "Stéphane",
+                "lastName": "Teyssier",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
               }
             ]
           },
@@ -103,13 +110,6 @@
               {
                 "firstName": "Nicolas",
                 "lastName": "Fränkel",
-                "profilePicture": "",
-                "designation": "",
-                "externalLink": ""
-              },
-              {
-                "firstName": "Stéphane",
-                "lastName": "Teyssier",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
