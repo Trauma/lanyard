@@ -634,15 +634,15 @@
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event30",
+            "trackId": "event42",
             "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
-            "title": "Create a Build and Deployment Pipeline for your iOS Apps with Amazon EC2 Mac Instances",
+            "title": "Fleet realtime tracking and visualization in AWS",
             "speakers": [
               {
-                "firstName": "Sébastien",
-                "lastName": "Stormacq",
+                "firstName": "Jugurtha",
+                "lastName": "Belkalem",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -889,15 +889,15 @@
         "slotFeedBack": false,
         "tracks": [
           {
-            "trackId": "event42",
+            "trackId": "event30",
             "selectedFlag": "notSelected",
             "trackLength": 5,
             "feedBack": false,
-            "title": "Fleet realtime tracking and visualization in AWS",
+            "title": "Create a Build and Deployment Pipeline for your iOS Apps with Amazon EC2 Mac Instances",
             "speakers": [
               {
-                "firstName": "Jugurtha",
-                "lastName": "BELKALEM",
+                "firstName": "Sébastien",
+                "lastName": "Stormacq",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
