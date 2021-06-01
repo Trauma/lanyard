@@ -196,15 +196,15 @@
             ]
           },
           {
-            "trackId": "event4",
+            "trackId": "event20",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
+            "title": "Les bonnes pratiques de sécurité pour les applications Serverless",
             "speakers": [
               {
-                "firstName": "Stéphane",
-                "lastName": "Teyssier",
+                "firstName": "Steve",
+                "lastName": "HOUEL",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -428,15 +428,15 @@
             ]
           },
           {
-            "trackId": "event20",
+            "trackId": "event4",
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Les bonnes pratiques de sécurité pour les applications Serverless",
+            "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
             "speakers": [
               {
-                "firstName": "Steve",
-                "lastName": "HOUEL",
+                "firstName": "Stéphane",
+                "lastName": "Teyssier",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
