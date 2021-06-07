@@ -448,11 +448,25 @@
             "selectedFlag": "notSelected",
             "trackLength": 1,
             "feedBack": false,
-            "title": "Guide de survie d’un système d’information hybride.",
+            "title": "REX - SOLLY AZAR : Guide de survie d’un système d’information hybride",
             "speakers": [
               {
                 "firstName": "Jean-Côme",
                 "lastName": "Ansquer",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Mauconduit",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
+                "firstName": "David",
+                "lastName": "Chilloux",
                 "profilePicture": "",
                 "designation": "",
                 "externalLink": ""
@@ -508,6 +522,7 @@
             "trackLength": 5,
             "feedBack": false,
             "title": "GameChanger : GraphQL pour prototyper dans le Cloud",
+            "trackIndex": 4,
             "speakers": [
               {
                 "firstName": "Bertrand",
