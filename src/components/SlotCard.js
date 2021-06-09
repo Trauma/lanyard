@@ -296,7 +296,6 @@ const slot_speakers = css`
   small {
     display: flex;
     &:before {
-      content: "--";
       white-space: nowrap;
       margin-right: 10px;
     }
