@@ -115,6 +115,13 @@
             "title": "Les mésaventures d’Alice et Bob au pays du cloud",
             "speakers": [
               {
+                "firstName": "Map 3 ➯ ",
+                "lastName": "60min",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
                 "firstName": "Mathieu",
                 "lastName": "Laude",
                 "profilePicture": "",
@@ -138,6 +145,13 @@
             "title": "Un déploiement Zéro downtime sur Kubernetes",
             "speakers": [
               {
+                "firstName": "Map 4 ➯ ",
+                "lastName": "60min",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
+              {
                 "firstName": "Nicolas",
                 "lastName": "Fränkel",
                 "profilePicture": "",
@@ -153,6 +167,13 @@
             "feedBack": false,
             "title": "Et si le temps était enfin venu de passer Kafka sur Kubernetes ?",
             "speakers": [
+              {
+                "firstName": "Map 5 ➯ ",
+                "lastName": "60min",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
               {
                 "firstName": "Olivier",
                 "lastName": "Tassetti",
@@ -176,6 +197,13 @@
             "feedBack": false,
             "title": "GitOps, une mise en situation un peu réaliste sur Kubernetes avec FluxCD",
             "speakers": [
+              {
+                "firstName": "Map 6 ➯ ",
+                "lastName": "90min",
+                "profilePicture": "",
+                "designation": "",
+                "externalLink": ""
+              },
               {
                 "firstName": "Ludovic",
                 "lastName": "Piot",
