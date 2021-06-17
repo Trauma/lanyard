@@ -100,7 +100,7 @@ const SlotCard = ({ eventData, selectTrack }) => {
                 )}
               </Fragment>
             ) : null}
-            {/* <div css={slot_action}>
+            <div css={slot_action}>
               {eventData.eventType == "talk" && eventData.tracks.length > 1 && (
                 <button
                   css={button}
@@ -111,7 +111,7 @@ const SlotCard = ({ eventData, selectTrack }) => {
                     : "Remove from Schedule"}
                 </button>
               )}
-            </div> */}
+            </div>
           </div>
         ))}
       </div>
