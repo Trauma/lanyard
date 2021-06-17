@@ -36,7 +36,7 @@
             "title": "Keynote d'ouverture",
             "speakers": [
               {
-                "firstName": "Map 6 ➯ ",
+                "firstName": "Salle 6 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -69,7 +69,7 @@
             "title": "Chaos Engineering, ou comment améliorer la résilience en injectant le chaos",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -92,7 +92,7 @@
             "title": "Checklist pour concevoir une application dans le cloud : 10 conseils à l'attention des concepteurs et architectes",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -115,7 +115,7 @@
             "title": "Les mésaventures d’Alice et Bob au pays du cloud",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -145,7 +145,7 @@
             "title": "Un déploiement Zéro downtime sur Kubernetes",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -168,7 +168,7 @@
             "title": "Et si le temps était enfin venu de passer Kafka sur Kubernetes ?",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -198,7 +198,7 @@
             "title": "GitOps, une mise en situation un peu réaliste sur Kubernetes avec FluxCD",
             "speakers": [
               {
-                "firstName": "Map 6 ➯ ",
+                "firstName": "Salle workshop ➯ ",
                 "lastName": "90min",
                 "profilePicture": "",
                 "designation": "",
@@ -238,7 +238,7 @@
             "title": "Terraform Advanced - State manipulation",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -268,7 +268,7 @@
             "title": "Les bonnes pratiques de sécurité pour les applications Serverless",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -291,7 +291,7 @@
             "title": "REX CI/CD AWS pour une architecture Serverless",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -314,7 +314,7 @@
             "title": "La configuration dans le contexte cloud Native",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -344,7 +344,7 @@
             "title": "Build a European 🇪🇺 and US 🇺🇸 Multi-cloud",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -377,7 +377,7 @@
             "title": "Et si on se penchait sur l'impact énergétique de l'IT ?",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -407,7 +407,7 @@
             "title": "Comment travailler avec des données sensibles et personnelles avec Snowflake ?",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -437,7 +437,7 @@
             "title": "Gitops: comment je mets en prod via un Git Push",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -467,7 +467,7 @@
             "title": "Kubernetes : la solution à tous vos problèmes IT ? (Spoiler alert : non)",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -490,7 +490,7 @@
             "title": "Hébergement de données de santé - Avantages, contraintes et obligations",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -547,7 +547,7 @@
             "title": "Réduire les couts de Google Cloud de manières simples et efficaces.",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -570,7 +570,7 @@
             "title": "InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -593,7 +593,7 @@
             "title": "REX - SOLLY AZAR : Guide de survie d’un système d’information hybride",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -630,7 +630,7 @@
             "title": "Sécurisation des applications modernes : Avez-vous le swag...ger ?",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -653,7 +653,7 @@
             "title": "Un Opendata dans Azure : Retour d'expérience sur les services managés",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -688,7 +688,7 @@
             "trackIndex": 4,
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -721,7 +721,7 @@
             "title": "Une migration vers le Cloud pragmatique : Quarkus, Kotlin, Hazelcast et GraalVM en action",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -744,7 +744,7 @@
             "title": "How do I made a powerful cache system using Go",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -767,7 +767,7 @@
             "title": "Une plateforme commune pour le Cloud hybride, technologie et mise en perspective avec l’actualité.",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -797,7 +797,7 @@
             "title": "FinOps : promesses & dérives, cas concrets",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -820,7 +820,7 @@
             "title": "Pannes de Data Center : comment et dans quels délais repartir ?",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -861,7 +861,7 @@
             "title": "Fleet realtime tracking and visualization in AWS",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -894,7 +894,7 @@
             "title": "De l'infrastructure jusqu'aux notebooks : une CI/CD complète pour Azure Databricks",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -924,7 +924,7 @@
             "title": "Skaffold & Tilt",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -947,7 +947,7 @@
             "title": "Stratégie de bascule et re-plateforming d’un écosystème IaaS vers une ferme de clusters Kubernetes hébergées chez Azure",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -977,7 +977,7 @@
             "title": "Kustomizons nos déploiements K8S avec style 🤩 !",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -1000,7 +1000,7 @@
             "title": "Démarrez votre plateforme Kubernetes avec VMware Tanzu",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -1034,7 +1034,7 @@
             "title": "AutoML vs AutoMobiLes",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -1067,7 +1067,7 @@
             "title": "Azure Bicep - The future of ARM templates",
             "speakers": [
               {
-                "firstName": "Map 1 ➯ ",
+                "firstName": "Salle 1 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -1090,7 +1090,7 @@
             "title": "Access, Assert, Act. La sécurité à l'échelle avec Falco 🦅",
             "speakers": [
               {
-                "firstName": "Map 2 ➯ ",
+                "firstName": "Salle 2 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -1120,7 +1120,7 @@
             "title": "Auditer son Cloud Public",
             "speakers": [
               {
-                "firstName": "Map 3 ➯ ",
+                "firstName": "Salle 3 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -1143,7 +1143,7 @@
             "title": "Low-Code et Cloud au service de la transformation digitale",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -1166,7 +1166,7 @@
             "title": "Pulumi, un Terraform nouvelle génération !",
             "speakers": [
               {
-                "firstName": "Map 5 ➯ ",
+                "firstName": "Salle 5 ➯ ",
                 "lastName": "60min",
                 "profilePicture": "",
                 "designation": "",
@@ -1200,7 +1200,7 @@
             "title": "Create a Build and Deployment Pipeline for your iOS Apps with Amazon EC2 Mac Instances",
             "speakers": [
               {
-                "firstName": "Map 4 ➯ ",
+                "firstName": "Salle 4 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
@@ -1234,7 +1234,7 @@
             "title": "Closing Keynote",
             "speakers": [
               {
-                "firstName": "Map 6 ➯ ",
+                "firstName": "Salle 6 ➯ ",
                 "lastName": "30min",
                 "profilePicture": "",
                 "designation": "",
