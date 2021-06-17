@@ -2,12 +2,239 @@
     {
       "Speakers": [
         {
-          "firstName": "John",
-          "lastName": "Dhoe",
-          "profileLink": "",
-          "profileImageFileName": "jeff.jpg"
-        }
+          "firstName": "Alexandre",
+          "lastName": "Touret",
+          "profileImageFileName": "Alexandre.jpg",
+          "profileLink": "https://github.com/alexandre-touret"
+        },
+        {
+          "firstName": "Manuel",
+          "lastName": "Boillod",
+          "profileImageFileName": "Manuel.jpg",
+          "profileLink": "https://github.com/boillodmanuel"
+        },
+        {
+          "firstName": "Paul",
+          "lastName": "PETON",
+          "profileImageFileName": "Paul.jpg",
+          "profileLink": "https://github.com/methodidacte"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Frappart",
+          "profileImageFileName": "David.jpg",
+          "profileLink": "https://github.com/dfrappart"
+        },
+        {
+          "firstName": "Mathieu",
+          "lastName": "Laude",
+          "profileImageFileName": "Mathieul.jpg",
+          "profileLink": "https://github.com/kassovix"
+        },
+        {
+          "firstName": "Benoit",
+          "lastName": "Averty",
+          "profileImageFileName": "Benoit.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Sylvain",
+          "lastName": "Révéreault",
+          "profileImageFileName": "Sylvain.jpg",
+          "profileLink": "https://github.com/srevereault"
+        },
+        {
+          "firstName": "Jugurtha",
+          "lastName": "BELKALEM",
+          "profileImageFileName": "Jugurtha.jpg",
+          "profileLink": "https://github.com/https://github.com/jugurthab"
+        },
+        {
+          "firstName": "Mehdi",
+          "lastName": "EL",
+          "profileImageFileName": "Mehdi.jpg",
+          "profileLink": "https://github.com/https://github.com/elkouhen"
+        },
+        {
+          "firstName": "Laurent",
+          "lastName": "Caillaud",
+          "profileImageFileName": "Laurent.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Sylvain",
+          "lastName": "COMBRAQUE",
+          "profileImageFileName": "Sylvain.jpg",
+          "profileLink": "https://github.com/Darkweak"
+        },
+        {
+          "firstName": "Charbel",
+          "lastName": "Hanna",
+          "profileImageFileName": "Charbel.jpg",
+          "profileLink": "https://github.com/charbelhanna"
+        },
+        {
+          "firstName": "Ecritel",
+          "lastName": "France",
+          "profileImageFileName": "Ecritel.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Chabane",
+          "lastName": "Refes",
+          "profileImageFileName": "Chabane.jpg",
+          "profileLink": "https://github.com/https://github.com/Chabane"
+        },
+        {
+          "firstName": "Adrien",
+          "lastName": "Lesuffleur",
+          "profileImageFileName": "Adrien.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Philippe",
+          "lastName": "MORISSEAU",
+          "profileImageFileName": "Philippe.jpg",
+          "profileLink": "https://github.com/https://ineaweb.github.io/Blog/"
+        },
+        {
+          "firstName": "Amine",
+          "lastName": "AIT",
+          "profileImageFileName": "Amine.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Nicolas",
+          "lastName": "Fränkel",
+          "profileImageFileName": "Nicolas.jpg",
+          "profileLink": "https://github.com/https://github.com/nfrankel"
+        },
+        {
+          "firstName": "Eric",
+          "lastName": "Briand",
+          "profileImageFileName": "Eric.jpg",
+          "profileLink": "https://github.com/ebriand"
+        },
+        {
+          "firstName": "Yves",
+          "lastName": "Aillet",
+          "profileImageFileName": "Yves.jpg",
+          "profileLink": "https://github.com/pyaillet"
+        },
+        {
+          "firstName": "Stéphane",
+          "lastName": "Teyssier",
+          "profileImageFileName": "Stéphane.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Sébastien",
+          "lastName": "Stormacq",
+          "profileImageFileName": "Sébastien.jpg",
+          "profileLink": "https://github.com/sebsto"
+        },
+        {
+          "firstName": "Samuel",
+          "lastName": "BALLY",
+          "profileImageFileName": "Samuel.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Thomas",
+          "lastName": "Rannou",
+          "profileImageFileName": "Thomas.jpg",
+          "profileLink": "https://github.com/https://github.com/thomasrannou"
+        },
+        {
+          "firstName": "Bertrand",
+          "lastName": "PINEL",
+          "profileImageFileName": "Bertrand.jpg",
+          "profileLink": "https://github.com/bpinel"
+        },
+        {
+          "firstName": "mathieu",
+          "lastName": "herbert",
+          "profileImageFileName": "mathieu.jpg",
+          "profileLink": "https://github.com/mathieuherbert"
+        },
+        {
+          "firstName": "Olivier",
+          "lastName": "Tassetti",
+          "profileImageFileName": "Olivier.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Davin",
+          "profileImageFileName": "Kevin.jpg",
+          "profileLink": "https://github.com/davinkevin"
+        },
+        {
+          "firstName": "Steve",
+          "lastName": "HOUEL",
+          "profileImageFileName": "Steve.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Matthieu",
+          "lastName": "Grandrie",
+          "profileImageFileName": "Matthieu.jpg",
+          "profileLink": "https://github.com/matthieucham"
+        },
+        {
+          "firstName": "Laurent",
+          "lastName": "Grangeau",
+          "profileImageFileName": "Laurent.jpg",
+          "profileLink": "https://github.com/laurentgrangeau"
+        },
+        {
+          "firstName": "Ludovic",
+          "lastName": "Piot",
+          "profileImageFileName": "Ludovic.jpg",
+          "profileLink": "https://github.com/ludovicpiot"
+        },
+        {
+          "firstName": "Nicolas",
+          "lastName": "HONG",
+          "profileImageFileName": "Nicolas.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Antoine",
+          "lastName": "CHENON",
+          "profileImageFileName": "Antoine.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Joachim",
+          "lastName": "Rousseau",
+          "profileImageFileName": "Joachim.jpg",
+          "profileLink": "https://github.com/"
+        },
+        {
+          "firstName": "Ismaël",
+          "lastName": "Hommani",
+          "profileImageFileName": "Ismaël.jpg",
+          "profileLink": "https://github.com/https://github.com/ihommani"
+        },
+        {
+          "firstName": "sebastien",
+          "lastName": "charret",
+          "profileImageFileName": "sebastien.jpg",
+          "profileLink": "https://github.com/scharret"
+        },
+        {
+          "firstName": "guillaume",
+          "lastName": "blaquiere",
+          "profileImageFileName": "guillaume.jpg",
+          "profileLink": "https://github.com/guillaumeblaquiere"
+        },
+        {
+          "firstName": "Tanguy",
+          "lastName": "Badier",
+          "profileImageFileName": "Tanguy.jpg",
+          "profileLink": "https://github.com/"
+        }        
       ]
     }
   ]
-  
