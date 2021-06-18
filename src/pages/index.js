@@ -45,9 +45,9 @@ const IndexPage = () => {
     }
   `)
 
-  if (typeof window !== "undefined" && localStorage.getItem('slots') !== null) {
-    window.onload = localStorage.removeItem('slots');
-   }
+  // if (typeof window !== "undefined" && localStorage.getItem('slots') !== null) {
+  //   window.onload = localStorage.removeItem('slots');
+  //  }
   
   function SetLocalStorage(key, value) {
     // Do not remove "typeof" : https://github.com/gatsbyjs/gatsby/issues/14480#issuecomment-497983196
